@@ -7,11 +7,19 @@ ls -l
 
 
 echo "==Present working Directory==="
-
 pwd
 
 
 echo "==Change directory=="
-
 mkdir kalash
 ls
+
+ls ~/Linux-for-devops-practice
+
+
+echo "==Remove directory=="
+
+rmdir kalash
+
+
+
